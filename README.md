@@ -7,8 +7,6 @@ This repository contains my solutions and deliverables for various courses and a
 
 - assignments/Contains final project submissions and peer-graded assignment notebooks.
 
-- screenshots/Captured images of code outputs and dashboards required by Coursera assignments.
-
 - README.mdThis file, providing an overview and usage instructions.
 
 ## Notebooks and Exercises
